@@ -1,0 +1,16 @@
+=== Academic Report ===
+Report ID: RPT-1765625680592
+Student: John Doe
+Semester: Semester 2
+Generated On: Sat Dec 13 19:34:40 GMT+08:00 2025
+
+--- Enrolled Courses ---
+Course: Object Oriented Programming | GPA: 4.0
+Course: Database Systems | GPA: 3.3
+Course: Computer Networking | GPA: 3.0
+
+Semester GPA: 0.0
+Cumulative GPA: 3.433333333333333
+
+--- Recommendations ---
+- Good standing. Consider advanced courses.

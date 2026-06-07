@@ -1,0 +1,47 @@
+# Build directories
+build/
+target/
+out/
+
+# IDE and editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Compiled classes
+*.class
+*.jar
+*.war
+
+# Generated files
+**/generated-sources/
+**/generated-resources/
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+*.gradle
+
+# Log files
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Test reports
+test-results/
+surefire-reports/

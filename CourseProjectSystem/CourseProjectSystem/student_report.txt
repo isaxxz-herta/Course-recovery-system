@@ -1,0 +1,16 @@
+=== Academic Report ===
+Report ID: RPT-1765613303153
+Student: John Doe
+Semester: Semester 2
+Generated On: Sat Dec 13 16:08:23 GMT+08:00 2025
+
+--- Enrolled Courses ---
+Course: OOPD | GPA: 3.7
+Course: Databases | GPA: 3.3
+Course: Networking | GPA: 3.0
+
+Semester GPA: 0.0
+Cumulative GPA: 0.0
+
+--- Recommendations ---
+- At risk. Please consult academic advisor.
